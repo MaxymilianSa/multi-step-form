@@ -1,4 +1,4 @@
-# Multi-step form with the custom react-formik-hook
+# Multi-step form
 
 Live demo - [open]() //Soon
 
